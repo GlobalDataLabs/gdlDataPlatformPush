@@ -1,0 +1,2 @@
+# gdlDataPlatformPush
+Push to Azure
